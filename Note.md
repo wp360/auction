@@ -56,15 +56,22 @@ bootstrap告诉Angular，当使用该模块引导应用时，我们要把AppComp
 ```
 ## 安装jquery、Bootstrap类型描述文件
 `npm install @types/jquery --save-dev`
+
 `npm install @types/bootstrap --save-dev`
 
 ## 生成对应六个组件
 `ng generate component navbar`
+
 `ng generate component footer`
+
 `ng generate component search`
+
 `ng generate component carousel`
+
 `ng generate component product`
+
 `ng generate component stars`
+
 
 
 
